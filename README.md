@@ -50,6 +50,15 @@ At this point the entire face is represented by 128 numbers — a compression ra
 
 ---
 
+![neural network diagram](neural_network.png)
+
+
+
+
+
+
+---
+
 ## How it works — in detail
 
 ### 1. The data
