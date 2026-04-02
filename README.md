@@ -73,6 +73,13 @@ noisy_image = clip(noisy_image, 0, 1)
 The network receives the noisy version as input and tries to produce the clean version as output.
 
 ---
+## Dataset
+
+The LFW (Labeled Faces in the Wild) dataset is not included in this repository due to its size.
+
+You can download it here:
+https://www.kaggle.com/datasets/jessicali9530/lfw-dataset
+---
 
 ### 2. Activation functions
 
